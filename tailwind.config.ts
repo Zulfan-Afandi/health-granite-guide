@@ -61,7 +61,26 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				health: {
+					primary: 'hsl(var(--health-primary))',
+					'primary-light': 'hsl(var(--health-primary-light))',
+					secondary: 'hsl(var(--health-secondary))',
+					'secondary-light': 'hsl(var(--health-secondary-light))'
 				}
+			},
+			backgroundImage: {
+				'gradient-health': 'var(--gradient-health)',
+				'gradient-health-soft': 'var(--gradient-health-soft)',
+				'gradient-card': 'var(--gradient-card)'
+			},
+			boxShadow: {
+				'health': 'var(--shadow-health)',
+				'card-health': 'var(--shadow-card)'
+			},
+			transitionTimingFunction: {
+				'smooth': 'var(--transition-smooth)',
+				'bounce': 'var(--transition-bounce)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
