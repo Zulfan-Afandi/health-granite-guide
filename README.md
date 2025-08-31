@@ -56,7 +56,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/97800161-58b9-4d02-a886-a7043d397307) and click on Share -> Publish.
+Simply open health-granite-guide-ex7ak7o97-zulfan-afandis-projects-109d07d4.vercel.app
 
 ## Can I connect a custom domain to my Lovable project?
 
